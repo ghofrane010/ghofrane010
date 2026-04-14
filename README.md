@@ -73,32 +73,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🫀 Heart Disease Predictor — MLOps Pipeline
-> Infrastructure MLOps production-grade : pipeline **GitHub Actions** automatisé, versioning des données avec **DVC**, tracking des expériences via **MLflow/DagsHub**, déploiement cloud avec gestion staging/production.  
-`Python` `MLflow` `DagsHub` `GitHub Actions` `Scikit-learn` `DVC`
-
----
-
-### 🐴 SportLLM — Chatbot GraphRAG (IFCE)
-> Interface en langage naturel pour interroger un graphe de connaissances équestres (**Neo4j**) via **GPT-4o-mini** et **LangChain**. Ontologie RDF/OWL, génération automatique de requêtes Cypher, interface Streamlit.  
-`Python` `LangChain` `Neo4j` `GPT-4o-mini` `Streamlit`
-
----
-
-### ⚡ POWER AI WISE — Détection d'anomalies énergétiques
-> Modèle ML pour détecter les anomalies de consommation énergétique et améliorer la surveillance des datacenters.  
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
-
----
-
-### 📈 Intelligent Trading Agent
-> Système de trading basé sur l'IA, augmentant les rendements du portefeuille de **+10%**.  
-`Python` `Selenium` `Pandas` `NumPy` `Optuna` `MongoDB` `Streamlit`
-
----
-
 ## 🏅 Certifications
 
 - 🎓 **IBM Data Science** — IBM
