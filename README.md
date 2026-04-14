@@ -85,7 +85,7 @@
 
 <div align="center">
 
-![Ghofrane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghofrane010&show_icons=true&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=ghofrane010&color=blue&style=for-the-badge)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghofrane010&layout=compact&theme=dark)
 
