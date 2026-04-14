@@ -85,11 +85,9 @@
 
 <div align="center">
 
-![Ghofrane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghofrane010&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Ghofrane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghofrane010&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghofrane010&theme=dark&hide_border=true&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghofrane010&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghofrane010&layout=compact&theme=dark)
 
 </div>
 
