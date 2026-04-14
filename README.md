@@ -90,7 +90,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghofrane010&layout=compact&theme=dark)
 
 </div>
-
 ---
 
 <div align="center">
