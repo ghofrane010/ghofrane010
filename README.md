@@ -86,7 +86,9 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ghofrane010&color=blue&style=for-the-badge)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghofrane010&theme=dark&hide_border=true&background=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ghofrane010&theme=dark)
+
 
 </div> 
 
